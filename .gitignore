@@ -1,0 +1,30 @@
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar diretórios do sistema e IDEs comuns
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas de build
+bin/
+build/
+out/
+
+# Ignorar arquivos de configuração do Eclipse
+*.classpath
+*.project
+.settings/
+
+# Ignorar arquivos do IntelliJ IDEA
+*.iml
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários
+*.tmp
+*.temp
+
+# Ignorar arquivos do sistema operacional
+*.swp
